@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Secrets
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Android
+android-app/.gradle/
+android-app/.idea/
+android-app/local.properties
+android-app/build/
+
+# Frontend
+node_modules/
+.next/
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
